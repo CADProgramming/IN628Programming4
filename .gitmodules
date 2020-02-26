@@ -1,0 +1,6 @@
+[submodule "prog-4-course-materials"]
+	path = prog-4-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/prog-4-course-materials
+[submodule "prog-4-practicals-CADProgramming"]
+	path = prog-4-practicals-CADProgramming
+	url = https://github.com/otago-polytechnic-bit-courses/prog-4-practicals-CADProgramming
